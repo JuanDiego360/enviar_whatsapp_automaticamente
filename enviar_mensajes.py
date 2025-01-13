@@ -39,9 +39,9 @@ while opc!="y" and opc!="n":
     if opc!="y" and opc!="n":
         print("opcion no valida")
 print()
-print("*"*len("* cuando se termine el envio te avisaremos con un archivo llamado PyWhatKit_DB.txt *")+2)
+print("*"*(len("* cuando se termine el envio te avisaremos con un archivo llamado PyWhatKit_DB.txt *")+2))
 print("* cuando se termine el envio te avisaremos con un archivo llamado PyWhatKit_DB.txt *")
-print("*"*len("* cuando se termine el envio te avisaremos con un archivo llamado PyWhatKit_DB.txt *")+2)
+print("*"*(len("* cuando se termine el envio te avisaremos con un archivo llamado PyWhatKit_DB.txt *")+2))
 print()
 
 if opc=="y":
